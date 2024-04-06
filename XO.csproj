@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MinimaxAI.cs" />
+    <Compile Include="Player2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TicTacToeBase.cs" />
+    <Compile Include="TicTacToeGame1.cs" />
+    <Compile Include="TicTacToeGameAI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
