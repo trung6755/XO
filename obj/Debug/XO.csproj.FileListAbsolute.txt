@@ -1,0 +1,7 @@
+C:\Users\Astral\source\repos\XO\XO\bin\Debug\XO.exe.config
+C:\Users\Astral\source\repos\XO\XO\bin\Debug\XO.exe
+C:\Users\Astral\source\repos\XO\XO\bin\Debug\XO.pdb
+C:\Users\Astral\source\repos\XO\XO\obj\Debug\XO.csproj.AssemblyReference.cache
+C:\Users\Astral\source\repos\XO\XO\obj\Debug\XO.csproj.CoreCompileInputs.cache
+C:\Users\Astral\source\repos\XO\XO\obj\Debug\XO.exe
+C:\Users\Astral\source\repos\XO\XO\obj\Debug\XO.pdb
